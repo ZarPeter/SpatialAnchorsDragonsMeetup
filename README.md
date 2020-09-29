@@ -1,9 +1,8 @@
 ﻿# Description:
-Coming soon...
-![event preview](https://secure.meetupstatic.com/photos/event/3/2/f/6/highres_484213046.jpeg)
+A simple application showcasing the capabilities Microsoft Spatial Anchors offer using Unity 3d, Hololens, and an Android Phone.
 
-# Materials for this meetup:
-https://www.meetup.com/Software-Technology-Meetup-Munchen/events/263611075/
+
+![event preview](https://secure.meetupstatic.com/photos/event/3/2/f/6/highres_484213046.jpeg)
 
 # Build and run:
 ## Android
@@ -12,9 +11,6 @@ https://www.meetup.com/Software-Technology-Meetup-Munchen/events/263611075/
 2. Open "Build Settings..." (Ctrl + Shift + B)
 3. Select Android as shown:
 ![Android build settings](Images/AndroidBuildSettings.JPG?raw=true "Title")
-
-### Run
-Coming soon...
 
 ## Hololens
 ### Build
@@ -27,5 +23,3 @@ Coming soon...
 
 ![Hololens debug settings](Images/HololensRunDebug.JPG?raw=true "Title")
 
-### Run
-Coming soon...
